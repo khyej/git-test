@@ -1,15 +1,16 @@
 ---
-name: Feature Request
-about: Suggest a new feature
-title: "[Feature] 제목"
-labels: enhancement
-assignees: ''
-
+name: 자기소개(이광선)
+about: 자기소개 페이지
+title: "자기소개(이광선)"
+labels: 페이지 작성
+assignees: ""
 ---
 
 ## 설명
-어떤 기능을 추가하고 싶은지 간략히 설명해주세요.
+
+자기소개를 위한 페이지를 작성했다.
 
 ## 작업 내용
-- [ ] 작업 1
-- [ ] 작업 2
+
+- [ ] 제목 작성
+- [ ] 소개 작성
