@@ -1,9 +1,9 @@
+---
 name: Feature Request
 about: Suggest a new feature
 title: "[Feature] 제목"
 labels: enhancement
-assignees: ''
-
+assignees: ""
 ---
 
 ## 설명
